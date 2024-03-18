@@ -21,7 +21,7 @@ public class Principal {
 		configurarLogs();
 		
 		System.out.println(
-				"Este programa lee el nivel de agua de una presa y permite abrir compuertas si tenemos permiso (el nivel es superior a 50) y las compuertas están verificadas.");
+				"Hola, este programa lee el nivel de agua de una presa y permite abrir compuertas si tenemos permiso (el nivel es superior a 50) y las compuertas están verificadas.");
 
 		int nivel = leerNivelAgua();
 
